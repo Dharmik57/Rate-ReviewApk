@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736329253925",
+    "firebase_url": "https://review-and-ratings.firebaseio.com",
+    "project_id": "review-and-ratings",
+    "storage_bucket": "review-and-ratings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736329253925:android:a0c60e3af5c58681c42bcc",
+        "android_client_info": {
+          "package_name": "com.example.ratingreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736329253925-nabrn33dj57qr9k7sn37ni7tuhp2tmfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfhzlLlXcEOaEDrmisE_DA3x2OyCmCgjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736329253925-nabrn33dj57qr9k7sn37ni7tuhp2tmfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
